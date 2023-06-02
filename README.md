@@ -45,14 +45,14 @@
 
 #### 使用说明
 后端：
-    1. 创建数据库，执行数据库脚本
-    2. 修改jdbc数据库连接参数
-    3. 下载安装maven依赖jar
-    4. 启动springboot启动类
-前端：
-    1. npm install
-    2. npm run build
-请求地址： http://localhost:8080    admin|123456    
+    1. 创建数据库，执行数据库脚本  
+    2. 修改jdbc数据库连接参数  
+    3. 下载安装maven依赖jar  
+    4. 启动springboot启动类  
+前端：  
+    1. npm install  
+    2. npm run build  
+请求地址： http://localhost:8080    admin|123456      
 
 #### 联系作者
 这是作者的微信二维码，如需本项目源代码，可扫码联系联系作者  
