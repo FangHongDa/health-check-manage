@@ -1,13 +1,13 @@
 # 毕业设计-体检录入系统
 
 #### 介绍
-  本体检信息录入系统采用前端：vue；后端：springboot+mybatis-plus+redis+mysql技术架构开发，前后端分离，容易上手。除了基本的体检结果查询、录入及导出外，在录入中还能对录入信息进行智能计算。
+  本体检信息录入系统采用前端：vue；后端：springboot+mybatis-plus+redis+mysql技术架构开发，前后端分离，容易上手。除了基本的体检结果查询、录入及导出外，在录入中还能对录入信息进行智能计算。  
 
 
 #### 软件架构
-后端：springboot | mybatis-plus | redis | mysql
-前端：vue
-系统环境：jdk1.8 | mysql | redis | nodejs14+
+后端：springboot | mybatis-plus | redis | mysql  
+前端：vue  
+系统环境：jdk1.8 | mysql | redis | nodejs14+  
 
 #### 功能结构
 ![输入图片说明](images/image1.png)
@@ -38,6 +38,10 @@
 
  △批量导出  
     在体检结果查询的列表页，点击“导出”可以导出当前筛选结果。将导出结果以excel文件形式下载至本地。  
+
+#### 项目预览
+地址：[商品详情](https://www.xunmaw.com/shop/detail/1621350797900857345)  
+点击演示地址  
 
 #### 使用说明
 后端：
