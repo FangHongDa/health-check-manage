@@ -10,7 +10,7 @@
 系统环境：jdk1.8 | mysql | redis | nodejs14+  
 
 #### 功能结构
-![输入图片说明](images/image1.png)
+![输入图片说明](image1.png)
 #### 功能介绍
 ##### 【代码结构与数据库截图】
 ![输入图片说明](images/image2.png)
